@@ -9,4 +9,11 @@ body {
 
 .App {
   text-align: center;
+  padding: 10px 0px;
+}
+
+#video-box {
+  padding: 10px 0px;
+  border-top: 5px solid black;
+  border-bottom: 2px solid black;
 }
